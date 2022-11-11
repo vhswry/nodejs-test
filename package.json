@@ -1,7 +1,7 @@
 {
   "name": "nodejs-test",
   "version": "1.0.0",
-  "description": "Here my some practice of testing different features of NodeJS",
+  "description": "Here my some practice of using/testing different features of NodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
