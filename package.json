@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "Here my some practice of testing different features of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhswry/nodejs-test.git"
+  },
+  "keywords": [
+    "js",
+    "practice",
+    "test",
+    "nodejs",
+    "features"
+  ],
+  "author": "vhswry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhswry/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/vhswry/nodejs-test#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "eslint": "^7.32.0"
+  }
+}
